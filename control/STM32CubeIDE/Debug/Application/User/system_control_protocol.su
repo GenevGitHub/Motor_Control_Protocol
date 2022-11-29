@@ -1,0 +1,8 @@
+system_control_protocol.c:12:6:register_Timer	0	static
+system_control_protocol.c:18:6:register_light_device	0	static
+system_control_protocol.c:23:6:register_message	0	static
+system_control_protocol.c:28:6:register_tx_timer	0	static
+system_control_protocol.c:34:6:Tail_Light_Control	8	static
+system_control_protocol.c:67:6:send_alert_message	0	static
+system_control_protocol.c:72:6:msg_retransmission_control	0	static
+system_control_protocol.c:77:9:calCheckSum	0	static

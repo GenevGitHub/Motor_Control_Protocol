@@ -1,0 +1,5 @@
+power_control_LL.c:117:13:light_indicator_off	0	static
+power_control_LL.c:112:13:light_indicator_on	0	static
+power_control_LL.c:74:13:system_boot	0	static
+power_control_LL.c:41:13:power_off	16	static
+power_control_LL.c:35:6:POWER_CONTROL_SETTING	8	static
